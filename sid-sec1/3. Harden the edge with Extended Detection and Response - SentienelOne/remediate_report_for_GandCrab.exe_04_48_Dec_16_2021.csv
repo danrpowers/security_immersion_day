@@ -1,0 +1,256 @@
+"Threat name: GandCrab.exe 
+Threat ID: 1305271162696709733 
+Mitigation name: remediate 
+Mitigation Status: success"
+Timestamp (UTC),Path,Registry Key,Status
+2021-12-06 22:22:07.113+00:00,\Device\HarddiskVolume2\Users\Public\Videos\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Music\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Downloads\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Internet Explorer\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.113+00:00,\Device\HarddiskVolume2\Users\Public\Pictures\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.113+00:00,\Device\HarddiskVolume2\Users\Public\Downloads\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\5ADE973C47F64C2C83ED61694B9A9CB8\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Windows\SendTo\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.113+00:00,\Device\HarddiskVolume2\Users\Public\Music\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.113+00:00,\Device\HarddiskVolume2\Users\Public\Libraries\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\docs11\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.113+00:00,\Device\HarddiskVolume2\Users\Public\Libraries\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\4C66D6FA15D1498EA3EE9CF828BEA25B\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Videos\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\docs4\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Videos\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Pictures\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Pictures\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Music\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\docs9\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\docs9\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\docs8\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.144+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Searches\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\docs8\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\docs7\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Videos\Captures\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\docs7\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\docs2\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.238+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Network\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\docs6\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.144+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Saved Games\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\docs3\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\docs6\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\docs5\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\docs5\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\docs4\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\B1831A19C2D64402B64BD65D43C22AFB\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\docs3\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Windows\Templates\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\docs2\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.238+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Internet Explorer\UserData\Low\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Crypto\RSA\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\docs14\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\docs11\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\docs14\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\docs13\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\docs13\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Videos\Captures\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\docs12\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\docs10\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.144+00:00,\Device\HarddiskVolume2\Users\ClarkeC\OneDrive\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\docs12\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.191+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Pictures\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\docs10\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\SystemCertificates\My\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\docs1\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\docs1\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\SystemCertificates\My\Certificates\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Windows\Start Menu\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\docs0\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\docs0\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Windows\SendTo\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\afterSentDocuments\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\Documents\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.238+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\MMC\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\AccountPictures\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Videos\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\AccountPictures\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Searches\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Vault\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\Public\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Windows\Templates\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.128+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Windows\Start Menu\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Local\Microsoft\Windows\INetCookies\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.144+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Saved Games\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.144+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Windows\Recent\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.144+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Windows\Recent\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.159+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Favorites\Links\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Crypto\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.144+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Windows\Printer Shortcuts\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.144+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Windows\Printer Shortcuts\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.144+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Pictures\Saved Pictures\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.144+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Pictures\Saved Pictures\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Network\Connections\Pbk\_hiddenPbk\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.144+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Pictures\Camera Roll\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.144+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Pictures\Camera Roll\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\docs2\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Adobe\Flash Player\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.144+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Pictures\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.144+00:00,\Device\HarddiskVolume2\Users\ClarkeC\OneDrive\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.253+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\ImplicitAppShortcuts\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.144+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Windows\Network Shortcuts\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.159+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Windows\Network Shortcuts\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Network\Connections\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.238+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\MMC\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.159+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Crypto\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.159+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Music\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.159+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Links\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.159+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Links\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.159+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Favorites\Links\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.159+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Favorites\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.175+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Favorites\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.238+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Internet Explorer\UserData\Low\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.175+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Downloads\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.175+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Downloads\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.175+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\Sensitive\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.175+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\Sensitive\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\BAD8679931974E14B74133B02E1848A5\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.175+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Videos\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.191+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Videos\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.191+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Pictures\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.191+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Music\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Music\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\docs9\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\docs9\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Vault\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\docs8\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\docs8\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\docs7\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\docs7\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\docs6\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\docs6\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\docs5\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\docs5\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\docs4\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\docs4\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\docs3\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\docs3\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\docs2\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\docs14\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\docs14\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\docs13\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\docs13\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\docs12\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\SystemCertificates\My\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\docs12\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\docs11\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\docs11\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\docs10\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\docs10\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\docs1\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\docs1\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\docs0\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\docs0\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\afterSentDocuments\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Documents\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.206+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Desktop\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Desktop\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Local\Microsoft\Windows\INetCookies\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Protect\S-1-5-21-4957925-3045688564-945866353-1195\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Contacts\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\Contacts\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\SystemCertificates\My\CTLs\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\SystemCertificates\My\CTLs\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\SystemCertificates\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\SystemCertificates\My\CRLs\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Adobe\Flash Player\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\SystemCertificates\My\CRLs\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\SystemCertificates\My\Certificates\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\SystemCertificates\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Spelling\en-US\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Spelling\en-US\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Spelling\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\BAD8679931974E14B74133B02E1848A5\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\5ADE973C47F64C2C83ED61694B9A9CB8\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Spelling\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.253+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Protect\S-1-5-21-4957925-3045688564-945866353-1195\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\5B16AE47D2E84D69BAE0F8268AAE8967\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Protect\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Protect\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Network\Connections\Pbk\_hiddenPbk\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Network\Connections\Pbk\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.222+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Network\Connections\Pbk\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.238+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Network\Connections\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.238+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Network\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.238+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Internet Explorer\UserData\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\516050936123457483DB88F8FE1B335B\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.238+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Internet Explorer\UserData\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.238+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\202731A574D349F684F68FCA278C2338\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.253+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\TaskBar\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.253+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\User Pinned\ImplicitAppShortcuts\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Internet Explorer\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Crypto\RSA\S-1-5-21-4957925-3045688564-945866353-1195\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Credentials\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Crypto\RSA\S-1-5-21-4957925-3045688564-945866353-1195\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\516050936123457483DB88F8FE1B335B\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Crypto\RSA\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Crypto\Keys\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Crypto\Keys\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\Credentials\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Microsoft\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Adobe\Flash Player\NativeCache\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Adobe\Flash Player\NativeCache\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Adobe\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\Adobe\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\AppData\Roaming\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\3D Objects\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\3D Objects\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Users\ClarkeC\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\A32D5D82D96A4AAD9393CFCC0FC8D5DA\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.269+00:00,\Device\HarddiskVolume2\Samples\Setup Info\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.285+00:00,\Device\HarddiskVolume2\Samples\Setup Info\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.285+00:00,\Device\HarddiskVolume2\Samples\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\Samples\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$Recycle.Bin\S-1-5-21-4957925-3045688564-945866353-1195\$RWOLJ6U.exe\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$Recycle.Bin\S-1-5-21-4957925-3045688564-945866353-1195\$RWOLJ6U.exe\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$Recycle.Bin\S-1-5-21-4957925-3045688564-945866353-1195\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$Recycle.Bin\S-1-5-21-4957925-3045688564-945866353-1195\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\E31E3DCE2F2C475294E4108CB5DBEC58\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\E31E3DCE2F2C475294E4108CB5DBEC58\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\DF1FEDA276904DBB9F113BDAE554AB87\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\DF1FEDA276904DBB9F113BDAE554AB87\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\CE6B69F29AC844E389DA441F7C0B3C72\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\CE6B69F29AC844E389DA441F7C0B3C72\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\C692D274E5224A36AB3830D4BFB3D854\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\B1831A19C2D64402B64BD65D43C22AFB\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\C692D274E5224A36AB3830D4BFB3D854\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\A32D5D82D96A4AAD9393CFCC0FC8D5DA\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\99C4576AA0844AC38F309C2D68C795BF\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\99C4576AA0844AC38F309C2D68C795BF\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\99A54D14CE314A86BC41A3452DE002F4\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\99A54D14CE314A86BC41A3452DE002F4\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\65329072372C4831808A63537FF50381\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\65329072372C4831808A63537FF50381\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\5B16AE47D2E84D69BAE0F8268AAE8967\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\4C66D6FA15D1498EA3EE9CF828BEA25B\38885c3238885bd86e.lock,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\202731A574D349F684F68FCA278C2338\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\$77074816EC77462F8BA575BE685B2DB8\KRAB-DECRYPT.txt,,success
+2021-12-06 22:22:07.316+00:00,\Device\HarddiskVolume2\ProgramData\1C442DE9.lock,,success
+2021-12-06 22:22:07.331+00:00,,\REGISTRY\USER\S-1-5-21-4957925-3045688564-945866353-1195\SOFTWARE\keys_data\data\private,success
+2021-12-06 22:22:07.331+00:00,,\REGISTRY\USER\S-1-5-21-4957925-3045688564-945866353-1195\SOFTWARE\keys_data\data\public,success
+2021-12-06 22:22:07.331+00:00,,\REGISTRY\USER\S-1-5-21-4957925-3045688564-945866353-1195\SOFTWARE\keys_data\data,success
+2021-12-06 22:22:07.331+00:00,,\REGISTRY\USER\S-1-5-21-4957925-3045688564-945866353-1195\SOFTWARE\keys_data,success
